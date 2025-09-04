@@ -67,8 +67,28 @@ The Online Loan Application System will allow customers to apply for loans onlin
 *(To be added in Diagrams/ folder as image — later we’ll link here)*  
 
 ---
+---
 
-## 7. Glossary
+## 7. User Story to Functional Requirement Mapping  
+
+| User Story ID | User Story                                                                 | Mapped FRD Requirement(s) |
+|---------------|-----------------------------------------------------------------------------|----------------------------|
+| US-01         | As a customer, I want to register with my details so that I can apply...   | FR1                        |
+| US-02         | As a customer, I want to log in securely so that my data is protected.     | FR2                        |
+| US-03         | As a customer, I want to submit a loan application so that I can...        | FR3                        |
+| US-04         | As a customer, I want to upload required documents so that my loan...      | FR4                        |
+| US-05         | As a customer, I want to track my loan status so that I know progress.     | FR5                        |
+| US-06         | As a customer, I want to receive notifications so that I stay updated.     | FR5 (extension)            |
+| US-07         | As an admin, I want to log in securely so that only staff access system.   | FR2 (admin role)           |
+| US-08         | As an admin, I want to review loan applications so that I can approve...   | FR6                        |
+| US-09         | As an admin, I want to verify uploaded documents so that fraud is reduced. | FR4 (validation)           |
+| US-10         | As an admin, I want to update application status so that customers know.   | FR5, FR6                   |
+| US-11         | As an admin, I want to generate reports so that management has insights.   | FR6 (extension/reporting)  |
+
+---
+
+
+## 8. Glossary
 - **KYC:** Know Your Customer  
 - **TAT:** Turnaround Time  
 
