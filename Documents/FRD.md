@@ -207,6 +207,7 @@ The Online Loan Application System is a web-based platform where:
 ## 6. Detailed Use Cases (expanded — required for FRD)
 
 > For each use case below we give: Actor, Preconditions, Steps (main flow), Exceptions / Negative scenarios, Postconditions.
+> See [Use Case Diagram](use_case_diagram.png).  
 
 ### Use Case UC-01: User Registration
 **Actor:** Customer  
