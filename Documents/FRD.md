@@ -557,37 +557,37 @@ The Online Loan Application System is a web-based platform where:
   <tbody>
     <tr>
       <td>US-01</td>
-      <td>As a customer, I want to register so I can apply for loan</td>
+      <td>As a customer, I want to register so that I can apply for a loan online.</td>
       <td>FR1–FR2</td>
     </tr>
     <tr>
       <td>US-02</td>
-      <td>As a customer, I want to log in securely</td>
+      <td>As a customer, I want to log in securely so that my personal and financial data is protected.</td>
       <td>FR2</td>
     </tr>
     <tr>
       <td>US-03</td>
-      <td>As a customer, I want to submit a loan application</td>
+      <td>As a customer, I want to submit a loan application so that I can apply for financing digitally without visiting a branch.</td>
       <td>FR3–FR8</td>
     </tr>
     <tr>
       <td>US-04</td>
-      <td>As a customer, I want to upload documents</td>
+      <td>As a customer, I want to upload supporting documents so that my loan application can be verified quickly.</td>
       <td>FR5–FR6</td>
     </tr>
     <tr>
       <td>US-05</td>
-      <td>As a customer, I want to track my application status</td>
+      <td>As a customer, I want to track my application status so that I stay informed about progress and next steps.</td>
       <td>FR10</td>
     </tr>
     <tr>
       <td>US-06</td>
-      <td>As a loan officer, I want to review applications</td>
+      <td>As a loan officer, I want to review loan applications so that I can approve or reject them based on eligibility.</td>
       <td>FR9–FR11</td>
     </tr>
     <tr>
       <td>US-07</td>
-      <td>As an admin, I want to generate reports</td>
+      <td>As an admin, I want to generate reports so that I can monitor overall loan processing efficiency and compliance.</td>
       <td>FR11</td>
     </tr>
   </tbody>
