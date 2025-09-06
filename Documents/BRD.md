@@ -43,15 +43,15 @@ The purpose of this BRD is to define the business needs and objectives for imple
 - Compliance-ready audit trail.  
 
 ---
-
 ## 5. Business Objectives & Goals  
 
-| Objective | KPI / Metric | Target |
-|-----------|--------------|--------|
-| Reduce loan processing time | Avg TAT (days) | Reduce from 10–15 days → < 5 days |
-| Improve customer satisfaction | Survey-based CSAT | +30% increase |
-| Digitize process | Paper-based applications | -90% within 6 months |
-| Ensure compliance | Regulatory breaches | Zero tolerance |
+| Objective                    | KPI / Metric                                | Target                              |
+|------------------------------|---------------------------------------------|-------------------------------------|
+| Reduce loan processing time  | **Average Turnaround Time (TAT) in days**   | Reduce from 10–15 days → < 5 days   |
+| Improve customer satisfaction| **Customer Satisfaction Score (CSAT)**      | +30% increase                       |
+| Digitize process             | **% of applications submitted digitally**   | ≥ 90% within 6 months               |
+| Ensure compliance            | **# of regulatory breaches / audit pass rate** | Zero breaches, 100% audit compliance |
+
 
 ---
 
