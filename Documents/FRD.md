@@ -621,7 +621,4 @@ The Online Loan Application System is a web-based platform where:
 
 ---
 
-## 15. Next Steps (recommended)
-1. Paste this FRD into `Documents/FRD.md` (one-shot).  
-2. Add the Use Case & Workflow diagrams (export PNGs into `Diagrams/` and link from FRD).  
-3. Populate the **Field-level table** for all screens (Login, Registration, Loan Form, Documents, Admin Console) — I can generate full field-level tables if you want
+
