@@ -416,6 +416,8 @@ The Online Loan Application System is a web-based platform where:
 
 > Expand this table for all screens (Login, Forgot Password, Documents, Admin console).
 
+For detailed screen-level specifications, refer to [Screen Specifications](Screen_Specifications.md).
+
 ---
 
 ## 8. Integration Points (APIs and External Systems)
