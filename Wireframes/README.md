@@ -2,10 +2,6 @@
 
 This folder contains wireframe designs for the **Online Loan Application System**.  
 
-## Structure  
-- **Source/** → Original editable files (e.g., draw.io `.drawio` or `.xml`).  
-- **Exports/** → Exported PNG/PDF versions of finalized wireframes.  
-- **README.md** → This document (folder purpose & navigation).  
 
 ## Usage  
 - Import `.drawio` or `.xml` files in [diagrams.net (draw.io)](https://app.diagrams.net/) to edit wireframes.  
@@ -20,3 +16,12 @@ Wireframes will be created for:
 - Status Dashboard  
 - Admin Review Screen  
 - Reports Screen  
+
+# Wireframes  
+
+This folder contains the **wireframes/mockups** for the Online Loan Application System.  
+The wireframes are created in **draw.io (.drawio / .xml format)** and exported into PNG/PDF for presentations.  
+
+---
+
+## 📂 Folder Structure
